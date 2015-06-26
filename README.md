@@ -2,4 +2,4 @@
 daily routine work
 
 # topics to be covered
-  [ ] binary indexed tree
+  -[ ] binary indexed tree
